@@ -65,8 +65,7 @@ PACKAGES="$PACKAGES luci-app-wechatpush"
 PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
 PACKAGES="$PACKAGES luci-app-wol"
 PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
-PACKAGES="$PACKAGES mosdns"
-PACKAGES="$PACKAGES tcpdump"
+
 
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
